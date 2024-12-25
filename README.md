@@ -7,6 +7,9 @@ The provided dataset contains information about sales transactions on Amazon, in
 # Summary of Insights
 
 Sales trends: Analysis of sales trends over time, identifying peak periods, and understanding the impact of seasonality.
+
 Product Performance: Evaluation of Product Categories, sizes, and quantities sold to identify top-performing and under performing products.
+
 Fulfillment Efficiency: Assessment of different fulfillment methods to determine their effectiveness and impact on customer satisfaction.
+
 Geographical Analysis: Exploration of sales distribution across different states and cities to identify high potential regions and areas of growth.
